@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot of solution.png)
+![Solution Screenshot](./screenshot of solution.png)
 
 
 ### Links
 
 -  Github URL: [Github Link](https://github.com/Mharvel13/Stats-Preview-Card-Component.com)
-- Live Site URL: [Hosted site solution](https://mharvel13.github.io/Stats-Preview-Card-Component/.com)
+- Live Site URL: [Hosted site solution](https://mharvel13.github.io/Stats-Preview-Card-Component/)
 - Frontend Mentor Solution URL: [Frontend Mentor solution Page](https://www.frontendmentor.io/solutions/stats-preview-card-component-KoZcDZYCRO.com)
 
 ## My process
